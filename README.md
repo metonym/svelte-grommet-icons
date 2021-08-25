@@ -6,6 +6,8 @@
 
 <!-- REPO_URL -->
 
+Try it in the [Svelte REPL](https://svelte.dev/repl/dd12a60aba434d81b0cdea6e9e0aea45).
+
 ---
 
 <!-- TOC -->
@@ -77,5 +79,5 @@ Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-grommet-icons.svg?color=%230a6955&style=for-the-badge
+[npm]: https://img.shields.io/npm/v/svelte-grommet-icons.svg?color=%237d4cdb&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-grommet-icons
