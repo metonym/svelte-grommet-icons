@@ -1,0 +1,43 @@
+{
+  "name": "svelte-grommet-icons",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Grommet SVG icons as Svelte components",
+  "author": "Eric Liu (https://github.com/metonym)",
+  "svelte": "./lib/index.js",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "dev": "rollup -cw",
+    "predeploy": "rollup -c",
+    "deploy": "gh-pages -d dist",
+    "prepack": "svelvg glob=grommet-icons/img iconIndex",
+    "test": "svelte-check --workspace=test/*"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "grommet-icons": "^4.6.1",
+    "rollup": "^2.56.3",
+    "svelte": "^3.42.2",
+    "svelte-check": "^2.2.4",
+    "svelte-readme": "^3.2.0",
+    "svelvg": "^0.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metonym/svelte-grommet-icons.git"
+  },
+  "homepage": "https://github.com/metonym/svelte-grommet-icons",
+  "bugs": "https://github.com/metonym/svelte-grommet-icons/issues",
+  "keywords": [
+    "svelte",
+    "svelte component",
+    "grommet",
+    "icon",
+    "svg"
+  ],
+  "files": [
+    "lib"
+  ]
+}
