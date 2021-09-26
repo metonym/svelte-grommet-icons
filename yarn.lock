@@ -890,10 +890,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.36.2, rollup@^2.56.3:
+rollup@^2.36.2:
   version "2.56.3"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.56.3.tgz#b63edadd9851b0d618a6d0e6af8201955a77aeff"
   integrity sha512-Au92NuznFklgQCUcV96iXlxUbHuB1vQMaH76DHl5M11TotjOHwqk9CwcrT78+Tnv4FN9uTBxq6p4EJoYkpyekg==
+  optionalDependencies:
+    fsevents "~2.3.2"
+
+rollup@^2.57.0:
+  version "2.57.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.57.0.tgz#c1694475eb22e1022477c0f4635fd0ac80713173"
+  integrity sha512-bKQIh1rWKofRee6mv8SrF2HdP6pea5QkwBZSMImJysFj39gQuiV8MEPBjXOCpzk3wSYp63M2v2wkWBmFC8O/rg==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -1024,10 +1031,10 @@ svelte@^3.42.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.4.tgz#838ed98fa7b26fc5fffe4df0d7ba345f1c54cf4f"
   integrity sha512-DqC0AmDdBrrbIA+Kzl3yhBb6qCn4vZOAfxye2pTnIpinLegyagC5sLI8Pe9GPlXu9VpHBXIwpDDedpMfu++epA==
 
-svelte@^3.42.5:
-  version "3.42.5"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.5.tgz#06c27ccdacebb4027b7a625633e7ca285bdff713"
-  integrity sha512-+y9ivcwMojAb0e87W7vR/UP7go44zc/3gtEciIMb8CUoIkUx6UJmPloBvVuO9MDXoGkUZM5SHr5PbLze9fJQVw==
+svelte@^3.43.0:
+  version "3.43.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.43.0.tgz#d28d06ec523bf0cea3de15558a3241c339a85762"
+  integrity sha512-T2pMPHrxXp+SM8pLLUXLQgkdo+JhTls7aqj9cD7z8wT2ccP+OrCAmtQS7h6pvMjitaZhXFNnCK582NxDpy8HSw==
 
 svelvg@^0.7.0:
   version "0.7.0"
