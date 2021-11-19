@@ -1,6 +1,6 @@
 # Icon Index
 
-> 614 total icons
+> 615 total icons
 
 ## Icons
 
@@ -282,6 +282,7 @@
 - Hide
 - History
 - HomeOption
+- HomeRounded
 - Home
 - Horton
 - HostMaintenance
