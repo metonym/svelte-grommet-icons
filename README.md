@@ -26,6 +26,12 @@ yarn add -D svelte-grommet-icons
 npm i -D svelte-grommet-icons
 ```
 
+**pnpm**
+
+```bash
+pnpm i -D svelte-grommet-icons
+```
+
 ## Usage
 
 ### Basic
@@ -54,7 +60,7 @@ Use the direct import for faster compiling during development.
 </script>
 ```
 
-## Rendering icons using `svelte:component`
+## Using `svelte:component`
 
 ```svelte
 <script>
