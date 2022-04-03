@@ -3,7 +3,7 @@
   import Ad from "../lib/Ad.svelte";
 </script>
 
-<Analytics />
+<Analytics fill="red" />
 <Camera />
 <DocumentImage />
 <Ad width="30" />

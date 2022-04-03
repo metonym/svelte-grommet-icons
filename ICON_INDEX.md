@@ -619,4 +619,3 @@
 - ZoomIn
 - ZoomOut
 - Zoom
-
