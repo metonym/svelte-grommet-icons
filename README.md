@@ -14,21 +14,14 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/dd12a60aba434d81b0cdea6e9e0a
 
 ## Installation
 
-**Yarn**
-
-```bash
+```sh
+# Yarn
 yarn add -D svelte-grommet-icons
-```
 
-**NPM**
-
-```bash
+# npm
 npm i -D svelte-grommet-icons
-```
 
-**pnpm**
-
-```bash
+# pnpm
 pnpm i -D svelte-grommet-icons
 ```
 
