@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
-    "grommet-icons": "4.7.0",
+    "grommet-icons": "4.8.0",
     "rollup": "^2.79.0",
     "svelte": "^3.49.0",
     "svelte-check": "^2.9.0",

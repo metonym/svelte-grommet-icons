@@ -1,6 +1,6 @@
 # Icon Index
 
-> 615 total icons
+> 619 total icons
 
 ## Icons
 
@@ -151,6 +151,7 @@
 - Directions
 - DisabledOutline
 - Disc
+- DislikeFill
 - Dislike
 - Docker
 - DocumentCloud
@@ -242,6 +243,7 @@
 - FormLock
 - FormNextLink
 - FormNext
+- FormPin
 - FormPreviousLink
 - FormPrevious
 - FormRefresh
@@ -318,6 +320,7 @@
 - Launch
 - Layer
 - License
+- LikeFill
 - Like
 - LineChart
 - LinkBottom
@@ -488,6 +491,7 @@
 - StackOverflow
 - Stakeholder
 - StarHalf
+- StarOutline
 - Star
 - StatusCriticalSmall
 - StatusCritical
@@ -545,7 +549,7 @@
 - ThreeDEffects
 - ThreeD
 - Ticket
-- Tictok
+- Tiktok
 - Time
 - Tip
 - Toast
