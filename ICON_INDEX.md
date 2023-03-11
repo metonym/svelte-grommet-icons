@@ -1,6 +1,6 @@
 # Icon Index
 
-> 619 total icons
+> 620 total icons
 
 ## Icons
 
@@ -57,6 +57,7 @@
 - Braille
 - Briefcase
 - Brush
+- Bucket
 - Bug
 - Bundle
 - Bus
